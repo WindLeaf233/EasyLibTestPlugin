@@ -77,7 +77,7 @@
         <dependency>
             <groupId>com.github.WindLeaf233</groupId>
             <artifactId>EasyLib</artifactId>
-            <version>5269539994</version>
+            <version>877370938c</version>
         </dependency>
     </dependencies>
 </project>
